@@ -4,3 +4,5 @@ do
   output=../docs/${output#src/}
   pandoc -s --template=../templates/default.html -o $output $file
 done
+
+cp ../src/*.html ../docs
