@@ -1,0 +1,7 @@
+---
+title: Easy Selections Adapated From Xenophon
+creator:
+  - role: author
+    text: Marvin Johanning
+lang: grc
+...
